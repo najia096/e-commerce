@@ -61,6 +61,7 @@ nav{
 }
 .menuItem{
     margin-right: 50px;
+    cursor: pointer;
 }
 
 
@@ -69,3 +70,4 @@ nav{
     height: 100vh;
     background: url("https://cdn.staticcrate.com/stock-hd/effects/footagecrate-low-poly-background-black-wall-prev-full.png");
 }
+
